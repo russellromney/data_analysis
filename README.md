@@ -10,7 +10,7 @@ Python; Notebook from a 45-minute presentation to students and faculty in the Py
 
 **Predicting Income From Census Data**
 
-Python; Used NBP and US Census data to try to classify whether an individual's income was great. Built classificatin models with logistic regression, linear discriminatn analysis, quadratic discriminant analysis, k nearest neighbors, and naive Bayes. Best predicted income achieved with quandratic discriminant analysis. Most important variable was the amount of capital gains, and work class, marital status, and age.
+Python; Used NBP and US Census data to try to classify whether an individual's income was great. Built classificatin models with logistic regression, linear discriminant analysis, quadratic discriminant analysis, k nearest neighbors, and naive Bayes. Best predicted income achieved with quandratic discriminant analysis. Most important variable was the amount of capital gains, and work class, marital status, and age.
 
 
 **Predicting Salaries from Job Postings**
